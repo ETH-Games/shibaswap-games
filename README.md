@@ -1,1 +1,1 @@
-# shibaswap-games
+# ShibaSwap Games
