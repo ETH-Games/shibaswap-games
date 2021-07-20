@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Governance
+title: PLAY
 nav_order: 1
 parent: Governance
 ---
