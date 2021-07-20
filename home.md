@@ -8,11 +8,11 @@
 
 ### Architecture
 
-#### [Prize Pools](prize-pools.md)
+#### [Prize Pools](prizes/prize-pools.md)
 
 The prize pools are where a user deposits their funds. The funds in a prize pool are staked in ShibaSwap to generate a return. The weekly winners of a prize pool are distributed the winnings per the distribution rules of the pool.
 
-#### [Prize Distribution](prize-distribution.md)
+#### [Prize Distribution](prizes/prize-distribution.md)
 
 Interest accrued in a prize pool are distributed weekly to the winning users per the following rules:
 
