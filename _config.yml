@@ -3,5 +3,3 @@ remote_theme: pmarsceill/just-the-docs
 
 # Site settings
 title: ShibaSwap Games
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://eth-games.github.io/shibaswap-games" # the base hostname & protocol for your site, e.g. http://example.com
